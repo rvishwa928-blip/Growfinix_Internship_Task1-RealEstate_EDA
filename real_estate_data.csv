@@ -1,0 +1,16 @@
+Property_ID,Neighborhood,Size_sqft,Bedrooms,Price
+1,Downtown,1200,2,7500000
+2,Uptown,1500,3,9200000
+3,Suburb,1800,3,8500000
+4,Downtown,1100,2,7000000
+5,Uptown,,4,11000000
+6,Suburb,2000,4,9800000
+7,Downtown,1300,2,7800000
+8,Uptown,1700,3,
+9,Suburb,2100,4,10200000
+10,Downtown,5000,5,50000000
+11,Uptown,1600,3,9500000
+12,Suburb,1900,4,9000000
+13,Downtown,1250,2,7600000
+14,Uptown,1550,3,9400000
+15,Suburb,1850,3,8700000
